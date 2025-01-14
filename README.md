@@ -2,18 +2,6 @@
 
 Este proyecto consiste en la construcción de un modelo de clasificación de imágenes utilizando PyTorch. El objetivo principal es clasificar imágenes de cartas de juego en 53 categorías diferentes. A través de este desarrollo, se aplican conceptos fundamentales de aprendizaje profundo, procesamiento de imágenes y entrenamiento de modelos.
 
-## Tabla de Contenidos
-- [Requisitos](#requisitos)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Implementación](#implementación)
-  - [Conjuntos de Datos y Transformaciones](#conjuntos-de-datos-y-transformaciones)
-  - [Modelo](#modelo)
-  - [Entrenamiento](#entrenamiento)
-- [Resultados](#resultados)
-- [Conclusiones](#conclusiones)
-- [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [Créditos](#créditos)
-
 ## Requisitos
 Para ejecutar este proyecto, asegúrate de tener instalados los siguientes paquetes:
 - Python 3.10 o superior
