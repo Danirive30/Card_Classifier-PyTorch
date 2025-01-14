@@ -60,10 +60,10 @@ Este proyecto demuestra cómo construir un modelo de clasificación de imágenes
 3. Organiza las carpetas de datos en las rutas especificadas (`train/`, `valid/`, `test/`).
 4. Ejecuta el código en un entorno compatible como Jupyter Notebook o directamente en un archivo Python.
 
---
+---
 
 Proyecto desarrollado basado en el aprendizaje y experimentación con PyTorch.
 
---
+---
 
 # Card_Classifier-PyTorch
